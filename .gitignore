@@ -1,0 +1,7 @@
+.idea/
+out/
+tcp-client/target/
+tcp-server/target/
+collibra-test.iml
+tcp-server/tcp-server.iml
+tcp-client/tcp-client.iml
